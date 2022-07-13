@@ -8,7 +8,7 @@ Docker build -t [image-name]
 
 ## Running the container
 
-To run the job, make the job accessible through a volume (your local directory) and pass the necessary arguments:
+To run , make the job accessible through a volume (your local directory) and pass the necessary directories:
 
 *gitbash
 docker run -v \\local_folder:/WORKDIR/ [image-name] /bin/bash -c "$(cat ./docker_entrypoint.sh)" 
