@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/jovyan/stream_processing_wkld/data/json_files/file_165.json","timestamp":1657741728468,"batchId":123}
+{"path":"file:///home/jovyan/stream_processing_wkld/data/json_files/file_166.json","timestamp":1657741733479,"batchId":123}
+{"path":"file:///home/jovyan/stream_processing_wkld/data/json_files/file_167.json","timestamp":1657741738492,"batchId":123}

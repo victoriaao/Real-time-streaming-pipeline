@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/jovyan/stream_processing_wkld/data/csv_files/part-00000-bd667702-6276-4f78-bf49-5f9890425d0a-c000.csv","timestamp":1657749190552,"batchId":2}
+{"path":"file:///home/jovyan/stream_processing_wkld/data/csv_files/part-00000-65f8de74-fcfa-43d4-b7e6-532b24fd20d8-c000.csv","timestamp":1657749262750,"batchId":2}
