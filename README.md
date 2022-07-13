@@ -1,6 +1,6 @@
 # KI_Tech_Challenge1
 
-This repo contains the entire files and code used to create the streaming pipeline for No.1 of the tech challenge.
+This repo contains the entire files and code used to create a streaming pipeline in 2 envs for data transformation and aggregation running on spark.
 
 To test pipeline solution -
 Run python main.py in the terminal to generate streaming data.
