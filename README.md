@@ -21,3 +21,4 @@ docker run -v /local_folder:/WORKDIR/ [image-name] /bin/bash -c "$(cat ./docker_
 
 This would run the first pipeline prodenv.py file in the background and
 then run the second prod env file in the foreground concurrently.
+*Apache Airflow would have been a preferred orchestration tool to run the second env after data files have been ingested from the first. It would be a great tool for monitoring of the pipeline for breaks as well.
