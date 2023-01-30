@@ -9,7 +9,7 @@ Build the image using the dockerfile provided i.e:
 
 Docker build -t [image-name]
 
-### Running the container
+## Running the container
 
 To run , make the job accessible through a volume (your local directory) and pass the necessary directories:
 
